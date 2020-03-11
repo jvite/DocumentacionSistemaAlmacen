@@ -1,0 +1,54 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Alarc{\'o}n}{2000}]{alarcon2000diseno}
+Alarc{\'o}n, R. (2000).
+\newblock Dise{\~n}o orientado a objetos con uml.
+\newblock {\em Grupo Eidos}.
+
+\bibitem[\protect\astroncite{Beck}{1999}]{beck1999embracing}
+Beck, K. (1999).
+\newblock Embracing change with extreme programming.
+\newblock {\em Computer}, 32(10):70--77.
+
+\bibitem[\protect\astroncite{Burgu{\'e}s}{2014}]{burgues2014aprende}
+Burgu{\'e}s, J. E.~G. (2014).
+\newblock {\em Aprende a modelar aplicaciones con UML}.
+\newblock IT Campus Academy.
+
+\bibitem[\protect\astroncite{Can{\'o}s and
+  Letelier}{2012}]{canos2012metodologias}
+Can{\'o}s, J.~H. and Letelier, M. C. P.~P. (2012).
+\newblock Metodolog{\'\i}as {\'a}giles en el desarrollo de software.
+
+\bibitem[\protect\astroncite{Chiesa}{2004}]{chiesa2004metodologia}
+Chiesa, F. (2004).
+\newblock Metodolog{\'\i}a para selecci{\'o}n de sistemas erp.
+\newblock {\em Reportes t{\'e}cnicos en ingenier{\'\i}a del software},
+  6(1):17--37.
+
+\bibitem[\protect\astroncite{Gil}{2003}]{gil2003representacion}
+Gil, S. V.~H. (2003).
+\newblock Representaci{\'o}n de la arquitectura de software usando uml.
+
+\bibitem[\protect\astroncite{Jacobson et~al.}{2000}]{jacobson2000lenguaje}
+Jacobson, I., Booch, G., and Rumbaugh, J. (2000).
+\newblock El lenguaje unificado de modelado.
+\newblock {\em Manual de Referencia}.
+
+\bibitem[\protect\astroncite{Pressman}{2005}]{pressman2005ingenieria}
+Pressman, R.~S. (2005).
+\newblock {\em Ingenier{\'\i}a del Software: Un enfoque pr{\'a}ctico}.
+\newblock McGraw-Hill Interamericana,.
+
+\bibitem[\protect\astroncite{Sommerville}{2005}]{sommerville2005ingenieria}
+Sommerville, I. (2005).
+\newblock {\em Ingenier{\'\i}a del software}.
+\newblock Pearson educaci{\'o}n.
+
+\bibitem[\protect\astroncite{Sparks}{2000}]{sparks2000introduccion}
+Sparks, G. (2000).
+\newblock Una introduccion al uml.
+\newblock {\em El Modelo L{\'o}gico. Recuperado de: http://www. sparxsystems.
+  com. es/downloads/whitepapers/El\_Modelo\_Logico. pdf}.
+
+\end{thebibliography}
